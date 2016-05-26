@@ -2,13 +2,27 @@
     <channel>
         <title><![CDATA[Ballet Clásico Cancún]]></title>
         <description><![CDATA[Ballet Clásico Cancún]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bcc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 26 May 2016 01:44:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 26 May 2016 01:45:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bcc/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[El Conflicto de Zotz (fragmentos)]]></title>
+            <description><![CDATA[<article><h1>El Conflicto de Zotz (fragmentos)</h1><p>Fragmentos de El Conflicto de Zotz. Obra ganadora del PECDA 2014. Idea original y coreografía: Mariangel C. Giraldo Ríos Ballet Clásico Cancún Todos los derechos reservados.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1e86b861e1a7c643bedb477d36a25a33708b6a6e.jpg"></article>]]></description>
+            <link>https://youtu.be/PeS2h2LeGL8</link>
+            <guid isPermaLink="false">2aaa449b-f358-4235-8d2e-6d29cf31571c</guid>
+            <pubDate>Thu, 26 May 2016 01:45:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Clases de Exhibición Jazz 2014-2015 (fragmento)]]></title>
+            <description><![CDATA[<article><h1>Clases de Exhibición Jazz 2014-2015 (fragmento)</h1><p>Clases de exhibición de la disciplina de jazz. Curso escolar 2014-2015 Ballet Clásico Cancún</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ac149bcc29870f4e8c637152916a57dabc8b714a.jpg"></article>]]></description>
+            <link>https://youtu.be/qJYJ_fhzFdQ</link>
+            <guid isPermaLink="false">3f4e6e7e-fb20-4489-8c62-71fabd5f555c</guid>
+            <pubDate>Thu, 26 May 2016 01:45:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[YAGP 2016 NYC FINALS- Los Turistas]]></title>
-            <description><![CDATA[<article><h1>YAGP 2016 NYC FINALS- Los Turistas</h1><p>Los Turistas Coreografía: Mariangel Giraldo Youth America Grand Prix 2016 Finals New York City, 2016</p></article>]]></description>
+            <description><![CDATA[<article><h1>YAGP 2016 NYC FINALS- Los Turistas</h1><p>Los Turistas Coreografía: Mariangel Giraldo Youth America Grand Prix 2016 Finals New York City, 2016</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e96c6d6529b526bce5d8588e26df56f417e4f3d6.jpg"></article>]]></description>
             <link>https://youtu.be/oqau13w6c1E</link>
             <guid isPermaLink="false">bf7c37ee-03ad-44df-88fb-24eb3623489d</guid>
             <pubDate>Thu, 26 May 2016 01:43:49 GMT</pubDate>
