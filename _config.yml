@@ -1,4 +1,3 @@
-layout_spectrum: 0.35848306003026664
 typography_spectrum: 0.4090347192250192
 color:
   brandStrength: 0.8572252746671438
@@ -11,4 +10,6 @@ color:
     - '#F6E497'
     - '#FCFAE1'
     - '#BD8D46'
+layout_spectrum: 0.35848306003026664
 name: Ballet Clásico Cancún
+description: 'Cancún, Q. Roo, México'
